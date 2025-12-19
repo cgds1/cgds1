@@ -28,6 +28,8 @@ Desarrollador fullstack con **3+ años de experiencia autodidacta** especializad
 - 💡 Apasionado por código limpio, testing y las mejores prácticas de desarrollo
 - 🤝 Abierto a colaboraciones y nuevos desafíos
 
+> 💼 Algunos proyectos enterprise en desarrollo privado
+
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -38,8 +40,6 @@ Desarrollador fullstack con **3+ años de experiencia autodidacta** especializad
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
@@ -53,24 +53,11 @@ Desarrollador fullstack con **3+ años de experiencia autodidacta** especializad
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Herramientas & Otros
+### DevOps & AI/ML
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cgds1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgds1&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cgds1&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -78,7 +65,7 @@ Desarrollador fullstack con **3+ años de experiencia autodidacta** especializad
 
 ```javascript
 const carlos = {
-    code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
+    code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
         frontend: ["React", "Angular", "Next.js", "Vite"],
         backend: {
@@ -91,9 +78,7 @@ const carlos = {
         AI_ML: ["TensorFlow", "OpenCV"],
         monitoring: ["Prometheus", "Rate Limiting", "Helmet"]
     },
-    architecture: ["REST APIs", "BFF Pattern", "Microservices", "MVC"],
-    currentFocus: "Building enterprise-grade fullstack applications with AI integration",
-    funFact: "Transformo café en código limpio ☕️"
+    architecture: ["REST APIs", "BFF Pattern", "Microservices", "MVC"]
 };
 ```
 
@@ -114,8 +99,4 @@ Siempre estoy abierto a colaborar en proyectos interesantes, discutir ideas o si
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cgds1&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
-  
-  ### 💙 Gracias por visitar mi perfil
-  
-  *"El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House*
 </div>
