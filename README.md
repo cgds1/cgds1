@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/cgds1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:cg22ds1243@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/cgds1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Exploring+AI+integration;Clean+code+enthusiast" alt="Typing SVG" />
@@ -16,23 +15,21 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Desarrollador fullstack con **3+ años de experiencia autodidacta** especializado en crear aplicaciones web modernas, escalables y robustas. Mi enfoque está en arquitecturas enterprise con NestJS, APIs RESTful bien diseñadas, y la integración de tecnologías modernas para resolver problemas reales.
+Fullstack developer with **3+ years of self-taught experience** specializing in building modern, scalable, and robust web applications. My focus is on enterprise architectures with NestJS, well-designed RESTful APIs, and integrating modern technologies to solve real-world problems.
 
-- 🎓 Estudiante de **Ingeniería en Computación** en Universidad Rafael Urdaneta
-- 🏗️ Experiencia con arquitecturas **BFF (Backend-for-Frontend)** y patrones de diseño escalables
-- 🔐 Implementación de sistemas de autenticación seguros con **JWT, Passport.js y bcrypt**
-- 🐳 Manejo de **Docker, CI/CD** y despliegues en producción
-- 🌱 Actualmente profundizando en **AI/ML integration** y microservicios
-- 💡 Apasionado por código limpio, testing y las mejores prácticas de desarrollo
-- 🤝 Abierto a colaboraciones y nuevos desafíos
-
-> 💼 Algunos proyectos enterprise en desarrollo privado
+- 🎓 Computer Engineering student at Universidad Rafael Urdaneta
+- 🏗️ Experience with **BFF (Backend-for-Frontend)** architectures and scalable design patterns
+- 🔐 Implementing secure authentication systems with **JWT, Passport.js, and bcrypt**
+- 🐳 Working with **Docker, CI/CD**, and production deployments
+- 🌱 Currently diving deeper into **AI/ML integration** and microservices
+- 💡 Passionate about clean code, testing, and development best practices
+- 🤝 Open to collaborations and new challenges
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -61,7 +58,7 @@ Desarrollador fullstack con **3+ años de experiencia autodidacta** especializad
 
 ---
 
-## 🎯 Áreas de Interés
+## 🎯 Areas of Interest
 
 ```javascript
 const carlos = {
@@ -84,19 +81,13 @@ const carlos = {
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Let's Connect
 
-Siempre estoy abierto a colaborar en proyectos interesantes, discutir ideas o simplemente conectar con otros desarrolladores.
+I'm always open to collaborating on interesting projects, discussing ideas, or simply connecting with other developers.
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cgds1)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail)](mailto:cg22ds1243@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cgds1)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:cg22ds1243@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cgds1&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
 </div>
