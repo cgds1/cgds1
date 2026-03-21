@@ -9,7 +9,7 @@
 
 ## About Me
 
-Fullstack developer currently working at **Glacier**, building web and mobile applications across the full stack. I work with NestJS and PostgreSQL on the backend, Flutter with Riverpod on mobile, and React/Angular on the frontend. Computer Engineering student at Universidad Rafael Urdaneta.
+Fullstack developer, building web and mobile applications across the full stack. I work with NestJS and PostgreSQL on the backend, Flutter with Riverpod on mobile, and React/Angular on the frontend. Computer Engineering student at Universidad Rafael Urdaneta.
 
 - 🏢 Full-stack Developer at **Glacier** (hybrid)
 - 🎓 Computer Engineering · Universidad Rafael Urdaneta, Maracaibo
