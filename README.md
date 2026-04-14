@@ -16,7 +16,6 @@ Fullstack developer, building web and mobile applications across the full stack.
 - 🔐 Auth systems with JWT, Passport.js, and bcrypt
 - 🐳 Docker, CI/CD, and production deployments
 - 📱 Mobile development with Flutter + Riverpod
-- 🌱 Currently exploring microservices and AI/LLM integration
 - 🤝 Open to collaborations and interesting projects
 
 ---
@@ -33,6 +32,8 @@ Fullstack developer, building web and mobile applications across the full stack.
 
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
