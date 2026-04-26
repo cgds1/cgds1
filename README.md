@@ -1,5 +1,4 @@
 # Hi, I'm Carlos Díaz
-
 ### Fullstack Developer · Computer Engineering Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cgds1)
@@ -9,13 +8,15 @@
 
 ## About Me
 
-Fullstack developer, building web and mobile applications across the full stack. I work with NestJS and PostgreSQL on the backend, Flutter with Riverpod on mobile, and React/Angular on the frontend. Computer Engineering student at Universidad Rafael Urdaneta.
+Fullstack developer building production-grade web and mobile applications across the full stack. I work with NestJS and PostgreSQL on the backend, Flutter with Riverpod on mobile, and React/Angular on the frontend. I also build AI-powered conversational agents and workflow automations integrated with ERP systems.
 
 - 🏢 Full-stack Developer at **Glacier** (hybrid)
 - 🎓 Computer Engineering · Universidad Rafael Urdaneta, Maracaibo
-- 🔐 Auth systems with JWT, Passport.js, and bcrypt
-- 🐳 Docker, CI/CD, and production deployments
-- 📱 Mobile development with Flutter + Riverpod
+- 🤖 AI agents & automation with n8n, Claude API and WhatsApp Cloud API
+- 🔗 ERP integration with Odoo via XML-RPC
+- 🔐 Auth systems with JWT rotation, token family tracking and bcrypt
+- 🐳 Docker, CI/CD with GitHub Actions, and production deployments
+- 📱 Mobile development with Flutter + Riverpod and React Native + Expo
 - 🤝 Open to collaborations and interesting projects
 
 ---
@@ -42,13 +43,22 @@ Fullstack developer, building web and mobile applications across the full stack.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+### AI & Automation
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
