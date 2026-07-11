@@ -1,5 +1,5 @@
 # Hi, I'm Carlos Díaz
-### Fullstack Developer · Computer Engineer
+### Fullstack Developer · Software Engineer
 
 ---
 
